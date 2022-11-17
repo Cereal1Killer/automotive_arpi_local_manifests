@@ -2,7 +2,7 @@
  Refer to http://source.android.com/source/downloading.html
 
  $ repo init -u https://android.googlesource.com/platform/manifest -b android-13.0.0_r8
- $ git clone https://github.com/android-rpi/local_manifests .repo/local_manifests -b arpi-13
+ $ git clone https://https://github.com/Cereal1Killer/automotive_arpi_local_manifests -b arpi-13
  $ repo sync
 
 # Build for Raspberry Pi 4
